@@ -1,0 +1,10 @@
+_____________TATA Airlines____________
+______________Ticket_________________
+_____________________________________
+Customer ID:1
+Customer Name:sagar
+Customer Gender:Male
+	Description
+
+Destination		USA
+Flight cost :		37000
